@@ -1,0 +1,151 @@
+# Serbian translation for Phosphorus.
+# Copyright (C) 2016 Jente Hidskes
+# This file is distributed under the same license as the Phosphorus package.
+# Dino Duratović <dinomol@mail.com>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-17 10:32+0100\n"
+"PO-Revision-Date: 2016-03-17 10:32+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Dino Duratović <dinomol@mail.com>\n"
+"Language: sr\n"
+
+#: ../data/phosphorus.desktop.in.h:1 ../src/ui.c:57
+msgid "A simple wallpaper browser and setter"
+msgstr "Једноставни прегледач и постављач позадина"
+
+#: ../data/phosphorus.desktop.in.h:2
+msgid "Choose an image and set it as wallpaper"
+msgstr "Изабери слику и постави је као позадину"
+
+#: ../src/callbacks.c:85
+msgid "Pick a directory"
+msgstr "Изабери директориј"
+
+#: ../src/callbacks.c:86 ../src/ui.c:84
+msgid "Cancel"
+msgstr "Откажи"
+
+#: ../src/callbacks.c:87
+msgid "Open"
+msgstr "Отвори"
+
+#: ../src/ui.c:38
+msgid ""
+"Phosphorus is free software: you can redistribute it and/or modify it under "
+"the terms of the GNU General Public License as published by the Free "
+"Software Foundation, either version 3 of the License, or (at your option) "
+"any later version."
+msgstr ""
+
+#: ../src/ui.c:42
+msgid ""
+"Phosphorus is distributed in the hope that it will be useful but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE. See the GNU General Public License for more "
+"details."
+msgstr ""
+
+#: ../src/ui.c:46
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"this program. If not, see http://www.gnu.org/licenses/."
+msgstr ""
+
+#: ../src/ui.c:62
+msgid "translator-credits"
+msgstr "Дино Дуратовић"
+
+#: ../src/ui.c:63
+msgid "Website"
+msgstr "Веб страница"
+
+#: ../src/ui.c:83 ../src/ui.c:217
+msgid "Preferences"
+msgstr "Поставке"
+
+#: ../src/ui.c:84
+msgid "Ok"
+msgstr "У реду"
+
+#: ../src/ui.c:91
+msgid "Image sorting"
+msgstr "Сортирање слика"
+
+#: ../src/ui.c:95
+msgid "None"
+msgstr "Без"
+
+#: ../src/ui.c:96
+msgid "Alphanumeric"
+msgstr "Абецедно"
+
+#: ../src/ui.c:97
+msgid "Reversed alphanumeric"
+msgstr "Обрнуто абецедно"
+
+#: ../src/ui.c:98
+msgid "Oldest first"
+msgstr "Најстарије прво"
+
+#: ../src/ui.c:99
+msgid "Newest first"
+msgstr "Најновије прво"
+
+#: ../src/ui.c:121
+msgid "Directories"
+msgstr "Директорији"
+
+#: ../src/ui.c:137
+msgid "Directory"
+msgstr "Директориј"
+
+#: ../src/ui.c:146
+msgid "Add"
+msgstr "Додај"
+
+#: ../src/ui.c:147
+msgid "Remove"
+msgstr "Уклони"
+
+#: ../src/ui.c:216
+msgid "About"
+msgstr "О"
+
+#: ../src/ui.c:218
+msgid "Apply"
+msgstr "Прихвати"
+
+#: ../src/ui.c:219
+msgid "Exit"
+msgstr "Излаз"
+
+#: ../src/ui.c:235
+msgid "Automatic"
+msgstr "Аутоматски"
+
+#: ../src/ui.c:238 ../src/ui.c:240
+msgid "Scaled"
+msgstr "Скалирано"
+
+#: ../src/ui.c:246 ../src/ui.c:248
+msgid "Centered"
+msgstr "Центрирано"
+
+#: ../src/ui.c:254 ../src/ui.c:256
+msgid "Tiled"
+msgstr "Поплочано"
+
+#: ../src/ui.c:262 ../src/ui.c:264
+msgid "Zoomed"
+msgstr "Увећано"
+
+#: ../src/ui.c:270 ../src/ui.c:272
+msgid "Zoomed Fill"
+msgstr "Увећано попуни"
